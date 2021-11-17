@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x424b6fF8c704F867e2f5cB11ABb8379276Bf6C0C",
+  "SCAN_LINK": "https://polygonscan.com/token/0x424b6ff8c704f867e2f5cb11abb8379276bf6c0c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "LightniX",
+  "SYMBOL": "LX",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lightnix",
+  "SHOW_BACKGROUND": true
+}
