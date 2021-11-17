@@ -4,7 +4,7 @@ Este repositorio proporciona una manera agradable y fácil de vincular un contra
 
 La ruta simple es tan simple que todo lo que necesita hacer es descargar la carpeta de compilación en la página de lanzamiento y cambiar la configuración para que se ajuste a sus necesidades. (Siga el video para ver un recorrido).
 
-La ruta más compleja le permite agregar funcionalidad adicional si se siente cómodo con la codificación en react.js. (Siga las instrucciones a continuación para llevar a cabo este recorrido).
+La ruta más compleja le permite agregar funcionalidad adicional si se siente cómodo con la codificación en "react.js". (Siga las instrucciones a continuación para llevar a cabo este recorrido).
 
 ## Instalación 🛠️
 
@@ -14,7 +14,7 @@ Si está clonando el proyecto, ejecútelo primero; de lo contrario, puede descar
 git clone https://github.com/larioxx/Dapp_NFT.git
 ```
 
-Asegúrese de tener instalado node.js para que pueda usar npm, luego ejecute:
+Asegúrese de tener instalado "node.js" para que pueda usar npm, luego ejecute:
 
 ```sh
 npm install
