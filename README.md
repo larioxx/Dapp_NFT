@@ -69,8 +69,37 @@ A continuación, cambie los colores del tema a su gusto en el archivo `public/co
 }
 ```
 
-Ahora deberá crear y cambiar el `public/favicon.ico`, `public/logo192.png`, y
+Ahora deberas crear y cambiar el `public/favicon.ico`, `public/logo192.png`, y
 `public/logo512.png` a las imágenes de su marca.
 
-Recuerde actualizar el título y la descripción del archivo `public/ ndex.html`
+Recuerda actualizar el título y la descripción del archivo `public/ ndex.html`
 
+```html
+<title>LightniX</title>
+    <meta name="description" content="Mint your LightniX NFT" />
+```
+
+También recuerda actualizar los campos short_name y name en el archivo `public/manifest.json`
+
+```json
+{
+  "short_name": "LX",
+  "name": "LightniX",
+{
+```
+
+Después de todos los cambios, puede ejecutar.
+
+```sh
+npm run start
+```
+
+O cree la compilación si está listo/a para implementar.
+
+```sh
+npm run build
+```
+
+Ahora puedes alojar el contenido de la carpeta de compilación en un servidor.
+
+¡Eso es todo! Lo has conseguido. Felicidades!
