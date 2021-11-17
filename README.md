@@ -51,3 +51,9 @@ Nota: esta dapp está diseñada para funcionar con el contrato inteligente NFT p
 }
 ```
 
+Asegúrese de copiar el ABI del contrato de remix y pegarlo en el archivo `public/config/abi.json`.
+(sigue el video de si tienes problemas con esta parte).
+
+Ahora necesitaras crear y cambiar 2 imágenes y un gif en la carpeta `public/config/images`,`bg.png`, `example.gif` y `logo.png`.
+
+A continuación, cambie los colores del tema a su gusto en el archivo `public/config/theme.css`.
