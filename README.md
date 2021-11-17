@@ -57,3 +57,20 @@ Asegúrese de copiar el ABI del contrato de remix y pegarlo en el archivo `publi
 Ahora necesitaras crear y cambiar 2 imágenes y un gif en la carpeta `public/config/images`,`bg.png`, `example.gif` y `logo.png`.
 
 A continuación, cambie los colores del tema a su gusto en el archivo `public/config/theme.css`.
+
+```css
+:root {
+  --primary: #dedede;
+  --primary-text: #1a1a1a;
+  --secondary: #1f2e46;
+  --secondary-text: #ffffff;
+  --accent: #505050;
+  --accent-text: #ffffff;
+}
+```
+
+Ahora deberá crear y cambiar el `public/favicon.ico`, `public/logo192.png`, y
+`public/logo512.png` a las imágenes de su marca.
+
+Recuerde actualizar el título y la descripción del archivo `public/ ndex.html`
+
